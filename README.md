@@ -1,4 +1,25 @@
-CHANGELOG
+# KML_class is a PHP class to create a KML file used by Google Earth
+and other Geographic tools #
+
+Author : 
+                    Ken LE PRADO
+Contributors : 
+                    Francois HETU
+                    Alexander LUCKING
+Port to Github : 	Maks Surguy
+
+## INSTALL ##
+   - Copy kml.class.php in your tree
+   - In your PHP include kml.class.php
+      Ex : include_once('kml.class.php');
+   - Start using it (see manual and example)
+   
+## UPGRADE ##
+   - Copy kml.class.php in place of the old file
+   - start using it (see manual and example)
+
+
+## CHANGELOG ##
 
 v0.3  
    - implement correctly KMLGroundOverlay (line 1274)
@@ -21,3 +42,4 @@ v0.2
 
 v0.1
    - KML class creation
+
