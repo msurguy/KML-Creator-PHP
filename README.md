@@ -2,12 +2,11 @@
 
 ##KML_class is a PHP class to create a KML file used by Google Earth, Google Maps and other Geographic tools##
 
-Author : 
-                    Ken LE PRADO
-Contributors : 
-                    Francois HETU
-                    Alexander LUCKING
-Port to Github : 	Maks Surguy
+Author : Ken LE PRADO
+
+Contributors : Francois HETU, Alexander LUCKING
+
+Port to Github : Maks Surguy(http://maxoffsky.com)
 
 ## INSTALL ##
    - Copy kml.class.php in your tree
