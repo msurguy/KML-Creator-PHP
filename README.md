@@ -1,5 +1,6 @@
-# KML_class is a PHP class to create a KML file used by Google Earth
-and other Geographic tools #
+# KML_class #
+
+##KML_class is a PHP class to create a KML file used by Google Earth, Google Maps and other Geographic tools##
 
 Author : 
                     Ken LE PRADO
